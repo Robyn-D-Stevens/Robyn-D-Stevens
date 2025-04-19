@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/61qDYd0NuKY" frameborder="0" allowfullscreen></iframe>
+![Example GIF]([assets/example.gif](https://github.com/Robyn-D-Stevens/Robyn-D-Stevens/blob/main/me__animated.gif))
 
 
 ## 🌐 Socials:
