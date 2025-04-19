@@ -1,4 +1,4 @@
-![Example GIF]([assets/example.gif](https://github.com/Robyn-D-Stevens/Robyn-D-Stevens/blob/main/me__animated.gif))
+![Example GIF](https://github.com/Robyn-D-Stevens/Robyn-D-Stevens/blob/main/me__animated.gif)
 
 
 ## 🌐 Socials:
