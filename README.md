@@ -17,7 +17,18 @@
 </table>
 <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=robyn-d-stevens&theme=shadow_red&hide_border=false)<br/>
+<table>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=robyn-d-stevens&theme=shadow_red&hide_border=false" alt="Streak Stats">
+    </td>
+    <td>
+      <img src="https://github.com/Robyn-D-Stevens/Robyn-D-Stevens/blob/main/work-thinking.gif" alt="Work Thinking GIF" width="200">
+    </td>
+  </tr>
+</table>
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=robyn-d-stevens&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
