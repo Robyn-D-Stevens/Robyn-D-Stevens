@@ -2,10 +2,12 @@
 
 ### ROBYN D STEVENS  
 <div align="right">
-<img src="https://github.com/Robyn-D-Stevens/dummyReadMe/blob/main/20260215_125418.gif" align="right" style="width: 100%" />
+  <img src="https://github.com/Robyn-D-Stevens/dummyReadMe/blob/main/20260215_125418.gif"
+       align="right"
+       width="260"
+       alt="intro gif" />
 </div>  
   
-
 
 
 ### 🏴‍☠️ Nakama, welcome to my ship.  
@@ -20,7 +22,12 @@ My dream? To become a developer who doesn't just write code, but engineers solut
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
+<table>
+  <tr>
+    <!-- LEFT: your existing 3-column skills table -->
+    <td valign="top" width="70%">
+      <table><tr><td valign="top" width="33%">
 
 
 
@@ -56,6 +63,14 @@ My dream? To become a developer who doesn't just write code, but engineers solut
 </div>
 
 </td></tr></table>  
+    </td>
+
+    <!-- RIGHT: skills gif -->
+    <td valign="top" width="30%" align="right">
+      <img src="ezgif-535319935666dd09.gif" alt="skills gif" width="260" />
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
@@ -84,7 +99,10 @@ My dream? To become a developer who doesn't just write code, but engineers solut
 <img src="https://github-readme-stats.vercel.app/api?username=Robyn-D-Stevens&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <div align="right">
-<img src="https://github.com/Robyn-D-Stevens/Robyn-D-Stevens/blob/main/work-thinking.gif" align="right" style="width: 100%" />
+  <img src="https://github.com/Robyn-D-Stevens/Robyn-D-Stevens/blob/main/work-thinking.gif"
+       align="right"
+       width="260"
+       alt="work thinking gif" />
 </div>  
   
 
