@@ -1,6 +1,3 @@
-
-
-### ROBYN D STEVENS
 <div align="right">
   <img src="https://github.com/Robyn-D-Stevens/dummyReadMe/blob/main/20260215_125418.gif"
        align="right"
@@ -8,8 +5,6 @@
        alt="intro gif" />
 </div>  
   
-
-
 ### 🏴‍☠️ Nakama, welcome to my ship.  
 I'm Robyn D Stevens - a final year Applications Development student at CPUT and aspiring application developer charting a course through the Grand Line of ICT.
 
@@ -17,9 +12,7 @@ Like any good pirate worth their Devil Fruit, I believe the real treasure isn't 
 
 *My dream?* To become a developer who doesn't just write code, but engineers solutions that actually make life easier for real people.  
   
-
 <br/>  
-
 
 ## ⚔️ My Devil Fruit Powers (Tech Stack)  
 
@@ -90,24 +83,33 @@ Like any good pirate worth their Devil Fruit, I believe the real treasure isn't 
 <br/>  
 
 
-## Github Stats  
+## 🚢 Voyage so far (GitHub Stats)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=robyn-d-stevens&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Robyn-D-Stevens/Robyn-D-Stevens/main/me__animated.gif" alt="Example GIF" width="200">
+    </td>
+  </tr>
+</table>
+<br/>
 
+<table>
+  <tr>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=robyn-d-stevens&theme=shadow_red&hide_border=false" alt="Streak Stats">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Robyn-D-Stevens/Robyn-D-Stevens/main/work-thinking.gif" alt="Work Thinking GIF" width="200">
+    </td>
+  </tr>
+</table>
 
-### Activity Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Robyn-D-Stevens&show_icons=true&count_private=true&hide_border=true" align="left" />  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=robyn-d-stevens&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="right">
-  <img src="https://github.com/Robyn-D-Stevens/Robyn-D-Stevens/blob/main/work-thinking.gif"
-       align="right"
-       width="260"
-       alt="work thinking gif" />
-</div>  
-  
-
-
-
-### Language Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robyn-D-Stevens&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+## 🏆 My Treasure (GitHub Trophies)
+![](https://github-profile-trophy.vercel.app/?username=robyn-d-stevens&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 <br/>  
 
