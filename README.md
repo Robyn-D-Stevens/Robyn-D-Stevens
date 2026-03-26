@@ -1,22 +1,19 @@
 
 
 ### ROBYN D STEVENS  
-<div align="center">
-<img src="https://github.com/Robyn-D-Stevens/Robyn-D-Stevens/blob/main/79a2bb7f69e5d2e123a3ce75e91cae50.gif" align="center" style="width: 100%" />
+<div align="right">
+<img src="https://github.com/Robyn-D-Stevens/dummyReadMe/blob/main/20260215_125418.gif" align="right" style="width: 100%" />
 </div>  
   
 
 
 
 ### 🏴‍☠️ Nakama, welcome to my ship.  
-<div align="center">I'm Robyn D Stevens - an Applications Development student at CPUT and aspiring application developer charting a course through the Grand Line of software engineering.
+I'm Robyn D Stevens - an Applications Development student at CPUT and aspiring application developer charting a course through the Grand Line of software engineering.
 
 Like any good pirate worth their Devil Fruit, I believe the real treasure isn't just the destination, it's everything you build along the way. Right now, I'm building solid, functional, and thoughtfully crafted applications, one commit at a time.
 
-My dream? To become a developer who doesn't just write code, but engineers solutions that actually make life easier for real people.</div>  
-  
-
-## <div align="center">⚔️ My Devil Fruit Powers (Tech Stack)</div>  
+My dream? To become a developer who doesn't just write code, but engineers solutions that actually make life easier for real people.  
   
 
 <br/>  
@@ -46,6 +43,7 @@ My dream? To become a developer who doesn't just write code, but engineers solut
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -80,22 +78,28 @@ My dream? To become a developer who doesn't just write code, but engineers solut
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=robyn-d-stevens&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+
+### Activity Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Robyn-D-Stevens&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <div align="right">
-<img src="https://github.com/Robyn-D-Stevens/Robyn-D-Stevens/blob/main/work-thinking.gif" align="right" height="" width="" />
+<img src="https://github.com/Robyn-D-Stevens/Robyn-D-Stevens/blob/main/work-thinking.gif" align="right" style="width: 100%" />
 </div>  
   
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robyn-d-stevens&hide_border=true&layout=compact" align="center" /></div>  
+
+
+### Language Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robyn-D-Stevens&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
 <br/>  
 
-*<div align="center">"A ship is safe in harbour, but that's not what ships are for."
+*<div align="center">"A ship is safe in harbour, but that's not what ships are for."*
 
 My repos are my logbook and every project henceforth, a new island.
 
-The Grand Line awaits. 🌊</div>*  
+**The Grand Line awaits. 🌊</div>**
   
 
 <br/>  
@@ -106,6 +110,3 @@ The Grand Line awaits. 🌊</div>*
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
