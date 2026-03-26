@@ -86,7 +86,7 @@ Like any good pirate worth their Devil Fruit, I believe the real treasure isn't 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=robyn-d-stevens&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Robyn-D-Stevens&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false&order=1" height="300" alt="stats graph"  />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robyn-d-stevens&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" width="300">
@@ -97,7 +97,7 @@ Like any good pirate worth their Devil Fruit, I believe the real treasure isn't 
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Robyn-D-Stevens&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="Streak Stats">
+    <td><img src="https://streak-stats.demolab.com?user=Robyn-D-Stevens&locale=en&mode=daily&theme=shadow-red&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/Robyn-D-Stevens/Robyn-D-Stevens/main/work-thinking.gif" alt="Work Thinking GIF" width="200">
@@ -107,11 +107,11 @@ Like any good pirate worth their Devil Fruit, I believe the real treasure isn't 
 
 
 ## 🏆 My Treasure (GitHub Trophies)
-![](https://github-profile-trophy.vercel.app/?username=robyn-d-stevens&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app?username=Robyn-D-Stevens&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robyn-d-stevens&theme=elegant&hide_border=true)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robyn-D-Stevens&radius=16&theme=dracula&area=true&order=5&bg_color=000000&color=ffffff&line=ff0000&point=eaa221&hide_border=true" height="300" alt="activity-graph graph"  />
+ 
 <br/>  
 
 *<div align="center">"A ship is safe in harbour, but that's not what ships are for."*
