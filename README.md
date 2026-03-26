@@ -1,6 +1,6 @@
 
 
-### ROBYN D STEVENS  
+### ROBYN D STEVENS
 <div align="right">
   <img src="https://github.com/Robyn-D-Stevens/dummyReadMe/blob/main/20260215_125418.gif"
        align="right"
@@ -11,17 +11,17 @@
 
 
 ### 🏴‍☠️ Nakama, welcome to my ship.  
-I'm Robyn D Stevens - an Applications Development student at CPUT and aspiring application developer charting a course through the Grand Line of software engineering.
+I'm Robyn D Stevens - a final year Applications Development student at CPUT and aspiring application developer charting a course through the Grand Line of ICT.
 
 Like any good pirate worth their Devil Fruit, I believe the real treasure isn't just the destination, it's everything you build along the way. Right now, I'm building solid, functional, and thoughtfully crafted applications, one commit at a time.
 
-My dream? To become a developer who doesn't just write code, but engineers solutions that actually make life easier for real people.  
+*My dream?* To become a developer who doesn't just write code, but engineers solutions that actually make life easier for real people.  
   
 
 <br/>  
 
 
-## My Skill Set  
+## ⚔️ My Devil Fruit Powers (Tech Stack)  
 
 <table>
   <tr>
@@ -41,7 +41,7 @@ My dream? To become a developer who doesn't just write code, but engineers solut
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 
 
@@ -53,7 +53,7 @@ My dream? To become a developer who doesn't just write code, but engineers solut
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 
 
@@ -64,10 +64,8 @@ My dream? To become a developer who doesn't just write code, but engineers solut
 
 </td></tr></table>  
     </td>
-
-    <!-- RIGHT: skills gif -->
-    <td valign="top" width="30%" align="right">
-      <img src="ezgif-535319935666dd09.gif" alt="skills gif" width="260" />
+    <td valign="top" width="40%" align="right">
+      <img src="https://github.com/Robyn-D-Stevens/dummyReadMe/blob/main/ezgif-535319935666dd09.gif" alt="skills gif" width="500" />
     </td>
   </tr>
 </table>
@@ -75,7 +73,7 @@ My dream? To become a developer who doesn't just write code, but engineers solut
 <br/>  
 
 
-## Connect with me  
+## ⚓Hoist your anchors (Connect with me)  
 <div align="center">
 <a href="https://linkedin.com/in/robyn-d-stevens" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
