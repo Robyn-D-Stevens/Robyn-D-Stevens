@@ -49,7 +49,6 @@ Like any good pirate worth their Devil Fruit, I believe the real treasure isn't 
 </td><td valign="top" width="40%">
 
 
-
 ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -90,7 +89,7 @@ Like any good pirate worth their Devil Fruit, I believe the real treasure isn't 
       <img src="https://github-readme-stats.vercel.app/api?username=robyn-d-stevens&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/Robyn-D-Stevens/Robyn-D-Stevens/main/me__animated.gif" alt="Example GIF" width="200">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robyn-d-stevens&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" width="300">
     </td>
   </tr>
 </table>
@@ -106,10 +105,12 @@ Like any good pirate worth their Devil Fruit, I believe the real treasure isn't 
   </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robyn-d-stevens&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 My Treasure (GitHub Trophies)
 ![](https://github-profile-trophy.vercel.app/?username=robyn-d-stevens&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robyn-d-stevens&theme=elegant&hide_border=true)
 
 <br/>  
 
@@ -122,7 +123,8 @@ My repos are my logbook and every project henceforth, a new island.
 
 <br/>  
 
-  
+  ---
+[![](https://visitcount.itsvg.in/api?id=robyn-d-stevens&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <br/>  
 
