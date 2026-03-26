@@ -97,7 +97,7 @@ Like any good pirate worth their Devil Fruit, I believe the real treasure isn't 
 
 <table>
   <tr>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=robyn-d-stevens&theme=shadow_red&hide_border=false" alt="Streak Stats">
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Robyn-D-Stevens&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="Streak Stats">
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/Robyn-D-Stevens/Robyn-D-Stevens/main/work-thinking.gif" alt="Work Thinking GIF" width="200">
