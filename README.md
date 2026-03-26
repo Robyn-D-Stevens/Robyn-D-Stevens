@@ -1,3 +1,6 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=150&section=header&reversal=false&text=Hey%20Nakama🏴‍☠️&fontSize=70&fontColor=00ffff&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=40&theme=default"  />
+</div>
 <div align="right">
   <img src="https://github.com/Robyn-D-Stevens/dummyReadMe/blob/main/20260215_125418.gif"
        align="right"
@@ -5,7 +8,7 @@
        alt="intro gif" />
 </div>  
   
-### 🏴‍☠️ Nakama, welcome to my ship.  
+### Welcome to my ship🦜.  
 I'm Robyn D Stevens - a final year Applications Development student at CPUT and aspiring application developer charting a course through the Grand Line of ICT.
 
 Like any good pirate worth their Devil Fruit, I believe the real treasure isn't just the destination, it's everything you build along the way. Right now, I'm building solid, functional, and thoughtfully crafted applications, one commit at a time.
@@ -120,11 +123,13 @@ My repos are my logbook and every project henceforth, a new island.
 
 **The Grand Line awaits. 🌊</div>**
   
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=14&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
 
 <br/>  
 
-  ---
-[![](https://visitcount.itsvg.in/api?id=robyn-d-stevens&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <br/>  
 
